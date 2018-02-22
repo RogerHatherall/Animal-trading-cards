@@ -1,0 +1,40 @@
+/* add your CSS here */
+body {
+	font-family: ariel, sans-serif;
+  align-content: center
+   }
+.outer_box {
+  border: 2px solid #000;
+  width: 340px;
+  padding: 20px;
+  box-shadow: 5px 5px 5px 5px grey;
+  border-radius: 1pc;
+  background-color: antiquewhite;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+.inner_box {
+  border: 3px solid brown;
+  width: 260px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 1pc;
+}
+.photo {
+  border: 3px solid brown;
+  width: 300px;
+  margin: 20px;
+  border-radius: 1pc;
+}
+.interesting_fact {
+    font-style: italic;
+}
+.labels {
+    font-weight: bold;
+}
+ul {
+  list-style: none;
+  padding: 0px;
+}
